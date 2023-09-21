@@ -1,0 +1,4 @@
+﻿Car. Model:ALZUG, Power:52
+Car. Model:8FOIN, Power:98
+Car. Model:2ENC8, Power:58
+Car. Model:FGOV1, Power:58

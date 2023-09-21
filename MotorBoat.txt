@@ -1,0 +1,4 @@
+﻿MotorBoat. Model:PYYVZ, Power:33
+MotorBoat. Model:CKQBF, Power:34
+MotorBoat. Model:U1XP0, Power:24
+MotorBoat. Model:5OF2Z, Power:99
